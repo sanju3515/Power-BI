@@ -1,54 +1,75 @@
-📊 Next-Gen Financial Insights - Data Visualization Project
-📁 Project Overview
-This repository contains the Power BI report created during my internship at Infosys Springboard (Oct 2024 – Dec 2024), under the Data Visualization domain. The project focuses on developing interactive and insightful dashboards to analyze and interpret key financial and operational metrics for a simulated Food & Beverage business.
+# 📊 Next-Gen Financial Insights – Data Visualization Project
 
-🎯 Objective
-The goal of the project was to:
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![Internship](https://img.shields.io/badge/Internship-Infosys%20Springboard-blue?style=for-the-badge)
 
-Build interactive dashboards using Microsoft Power BI
+## 📁 Project Overview
 
-Deliver clear, concise, and actionable insights from complex datasets
+This repository contains a Power BI report developed during my internship at **Infosys Springboard** (Oct 2024 – Dec 2024). The project focuses on building **interactive dashboards** to analyze financial and operational data of a simulated **Food & Beverage** business.
 
-Apply data visualization best practices to support better decision-making
+---
 
-🚀 Key Features
-Interactive Dashboards:
+## 🎯 Objectives
 
-Visualizations for key financial KPIs: expenses, profit, sales, and forecasting
+- Build dynamic, multi-page dashboards in **Power BI**
+- Transform raw datasets into **clear, actionable insights**
+- Apply industry-standard **data visualization principles**
+- Ensure visual design aligns with business decision-making goals
 
-Dynamic filters and slicers for customized data views
+---
 
-Drill-through and multi-page navigation
+## 📊 Dashboard Features
 
-Data Insight Validation:
+- **Four distinct dashboards** covering:
+  - 💸 **Expenses**
+  - 💰 **Profit Analysis**
+  - 📈 **Sales Trends**
+  - 🔮 **Forecasting**
+- Interactive filters, slicers, and drill-through pages
+- KPI cards, bar/line charts, area graphs, and pie charts
+- Designed with business stakeholders in mind – clarity and usability prioritized
 
-Ensured data integrity and accuracy through iterative reviews with mentors
+---
 
-Design Thinking:
+## 🛠️ Tools & Technologies
 
-Emphasis on clarity, aesthetics, and usability to meet stakeholder needs
+| Tool            | Purpose                      |
+|-----------------|------------------------------|
+| Power BI        | Dashboard creation & modeling|
+| Microsoft Excel | Data cleaning & transformation |
+| DAX             | Custom calculations & measures |
+| Infosys Springboard | Mentorship & training platform |
 
-🛠 Tools & Technologies
-Power BI Desktop (.pbix) – Dashboard development
+---
 
-Microsoft Excel – Data cleaning and preparation
+## 🧠 Internship Summary
 
-Infosys Springboard – Mentorship and platform support
+**Role**: Data Visualization Intern  
+**Platform**: Infosys Springboard  
+**Duration**: Oct 2024 – Dec 2024  
 
-📂 Files Included
-Food & Beverage.pbix – Power BI file and PPT
+### 👨‍💻 Responsibilities
 
-🧑‍💼 Internship Summary
-Role: Data Visualization Intern
-Platform: Infosys Springboard
-Duration: October 2024 – December 2024
+- Worked in a 4-member team to develop 4 Power BI dashboards
+- Contributed to the design and logic of financial visualizations
+- Validated insights and dashboards through mentor reviews
+- Ensured alignment with business KPIs and visualization best practices
 
-✅ Responsibilities:
-Collaborated with designated mentors to define data visualization strategies
+---
 
-Developed user-friendly, visually rich dashboards as part of the Next-Gen Financial Insights initiative
+## 📂 File Included
 
-Focused on storytelling with data, using modern design and effective visuals
+- `Food & Beverage.pbix` – Power BI 
+---
 
-📌 Conclusion
-This project gave me hands-on experience in Power BI, reinforced my understanding of financial KPIs, and enhanced my ability to turn raw data into business-ready insights. It reflects my passion for data storytelling and visualization clarity.
+## 🏁 Conclusion
+
+This project gave me **hands-on experience with Power BI**, a deeper understanding of **financial data analysis**, and real-world exposure to **building executive dashboards**. It reflects my ability to convert complex datasets into **insightful, visually rich reports** that drive decisions.
+
+---
+
+## 📬 Contact
+
+📧 omkar.biloor@email.com  
+🐙 [GitHub](https://github.com/omkarbillor)
+
