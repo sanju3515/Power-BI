@@ -68,8 +68,4 @@ This project gave me **hands-on experience with Power BI**, a deeper understandi
 
 ---
 
-## 📬 Contact
-
-📧 omkar.biloor@email.com  
-🐙 [GitHub](https://github.com/omkarbillor)
 
